@@ -1,0 +1,17 @@
+>>
+Script is used     : e3TemplateGenerator.bash
+Script Path        : /home/jhlee/ics_gitsrc/e3-tools/e3TemplateGenerator
+User               : jhlee
+Log Time           : 2019Jan11-1424-38CET
+e3 repo Hash       : 462fe5f
+
+>>
+>> Your sources are located in e3-epicsEx.
+>> 
+EPICS_MODULE_NAME  : epicsEx
+E3_MODULE_SRC_PATH : epicsEx
+E3_TARGET_URL      : https://github.com/jeonghanlee
+>> 
+e3 module name     : e3-epicsEx
+e3 target url full : https://github.com/jeonghanlee/e3-epicsEx
+>> 
